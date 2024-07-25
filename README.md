@@ -2,7 +2,7 @@
 - 👀 I’m interested in soccer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything to help me improve
-- 📫 How to reach me youtube: Keitaro Cho
+- 📫 How to reach me Instagram: keitarorc
 
 <!---
 Keitarorc/Keitarorc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
